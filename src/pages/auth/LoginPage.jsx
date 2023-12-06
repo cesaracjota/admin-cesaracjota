@@ -84,9 +84,9 @@ const LoginPage = () => {
                                 <Box textAlign="start">
                                     <Heading fontSize={'2xl'} fontWeight="black">Log in</Heading>
                                     <Text fontSize={'md'}>
-                                        Sistema De Gestion Administrativa{" "}
+                                        Sistema Administrativa de un Portafolio{" "}
                                         <Link as={NavLink} to={'/register'} fontWeight={'semibold'} color="purple.600" textDecoration="none">
-                                            SGA
+                                            SAP
                                         </Link>
                                     </Text>
                                 </Box>

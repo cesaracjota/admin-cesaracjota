@@ -94,7 +94,7 @@ const ResetPasswordPage = () => {
                                 <Box textAlign="start">
                                     <Heading fontSize={'2xl'} fontWeight="black">Reset Password</Heading>
                                     <Text fontSize={'md'}>
-                                        Sistema De Gestion Administrativa{" "}
+                                        Sistema Administrativa de un Portafolio{" "}
                                     </Text>
                                 </Box>
                                 <Stack spacing={3}>
